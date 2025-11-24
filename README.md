@@ -1,8 +1,8 @@
-# Claude OpenAI API
+# Claude Code OpenAI API
 
 > **中文** | [EN](./README_EN.md)
 
-完全兼容OpenAI格式的Claude API封装服务，将Claude Code智能体框架暴露为标准API接口。
+完全兼容OpenAI格式的Claude Code API封装服务，将Claude Code智能体框架暴露为标准API接口。
 
 ## 🎯 项目背景
 
