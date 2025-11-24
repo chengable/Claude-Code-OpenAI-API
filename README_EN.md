@@ -166,9 +166,9 @@ curl -X POST http://localhost:9000/v1/chat/completions \
 # Send chat request (using API Key)
 curl -X POST http://localhost:9000/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer sk-your-api-key(custom)" \
+  -H "Authorization: Bearer sk-your-api-key" \
   -d '{
-    "model": "claude-4-sonnet-xxxx",
+    "model": "claude-4-sonnet-xxxx(custom)",
     "messages": [
       {
         "role": "user",
